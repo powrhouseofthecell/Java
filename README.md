@@ -1,1 +1,1 @@
-# Nothing fancy abs basics of java
+# Nothing fancy, learning abs basics of java
