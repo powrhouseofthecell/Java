@@ -31,6 +31,7 @@ public class Constructor {
     Student2 stu21 = new Student2();
     System.out.println(stu2.getName());
     System.out.println(stu2.getRoll());
+    System.out.println("=== === ===");
     System.out.println(stu21.getName());
     System.out.println(stu21.getRoll());
   }
