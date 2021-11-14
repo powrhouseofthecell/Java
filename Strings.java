@@ -11,10 +11,10 @@ public class Strings {
     // printf works the same as it did in C
     // There is also System.out.format() which works in the same way
     System.out.printf(
-    "The value of a is %d and the value of b is %f and the value of c is %c",
-    a,
-    b,
-    c
+      "The value of a is %d and the value of b is %f and the value of c is %c",
+      a,
+      b,
+      c
     );
 
     // System.out.println(name);

@@ -18,4 +18,3 @@ public class OOP {
     System.out.println(obj.name);
   }
 }
-
