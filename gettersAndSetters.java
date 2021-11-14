@@ -1,7 +1,7 @@
 class Student {
 
-  String name;
-  int roll;
+  private String name;
+  private int roll;
 
   public String getName() {
     return name;
