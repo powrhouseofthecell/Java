@@ -42,6 +42,7 @@ public class Inheritance {
   public static void main(String[] args) {
     //Base b = new Base();
     Derived d = new Derived();
+    System.out.println(d.getY());
     //
     //b.x = 10;
     //d.y = 20;
