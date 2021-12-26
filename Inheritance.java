@@ -51,6 +51,5 @@ public class Inheritance {
     //d.x = 100;
     //System.out.println(d.getX());
     //
-
   }
 }
