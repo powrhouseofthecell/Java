@@ -1,4 +1,4 @@
-<h1 align="center">JAVA 👋</h1>
+<h1 align="center">JAVA 🙇‍♂️</h1>
 
 ## Author
 
